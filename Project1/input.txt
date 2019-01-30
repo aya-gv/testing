@@ -1,0 +1,9 @@
+begin
+	int val = 0
+	while val < 4.0
+	{
+		print 2val
+		val = val + .8
+	}
+	file << wrong_file
+end

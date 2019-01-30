@@ -1,0 +1,22 @@
+begin	reserved word
+int	reserved word
+val	identifier
+=	math operator
+0	integer
+while	reserved word
+val	identifier
+<	comparison operator
+4.0	float
+{	grouping operator
+print	reserved word
+2val	ERROR CODE 1: Lexical error: token not valid in language
+val	identifier
+=	math operator
+val	identifier
++	math operator
+.8	float
+}	grouping operator
+file	identifier
+<<	shift operator
+wrong_file	ERROR CODE 0: Lexical error: invalid character found in token
+end	reserved word
